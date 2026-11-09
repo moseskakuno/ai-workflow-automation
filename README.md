@@ -306,11 +306,23 @@ This project was developed to explore and demonstrate practical skills in:
 
 Web Developer | Python Developer | AI Automation Enthusiast
 
-GitHub:
-[https://github.com/moseskakuno](https://github.com/moseskakuno)
+GitHub: https://github.com/moseskakuno/ai-workflow-automation
 
 This project is part of my practical portfolio, demonstrating how Python, AI APIs, and workflow automation can be combined to solve real-world business problems.
 
+A portfolio project demonstrating practical applications of:
+
+- Generative AI
+- OpenAI API Integration
+- AI-Powered Document Processing
+- PDF Data Extraction
+- Automated Data Validation
+- Business Process Automation
+- Rule-Based Workflow Management
+- Risk Assessment and Error Detection
+- Human-in-the-Loop Approval Workflows
+- Database Management with SQLite
+- Python Application Development
 ---
 
 *Built with Python, Streamlit, SQLite, and the OpenAI API.*
